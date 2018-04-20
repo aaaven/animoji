@@ -69,3 +69,6 @@ Let's code! Open your IDE/ Editor/ Processing software.
 * data driven face drawing
 * Demo
 
+ps. You will need oscP5 library and faceOSC app to make this work.
+OSC library: sketch--> import library --> add library; "Contribution Manager" will pop up; -->search " oscP5"; hit install
+faceOSC app: https://github.com/downloads/kylemcdonald/ofxFaceTracker/FaceOSC.zip
